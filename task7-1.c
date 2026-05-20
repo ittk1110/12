@@ -14,7 +14,7 @@ int main() {
         printf("そのファイルは存在します。\n");
         fclose(file);  
     } else {
-        printf("そのファイルは存在しません。\n");
+        printf("そのファイルは存在しま。\n");
     }
 
     return 0;
